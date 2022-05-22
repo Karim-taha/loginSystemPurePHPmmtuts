@@ -1,0 +1,52 @@
+.main-title{
+    color: blue;
+    text-align: center;
+    margin-top: 25px;
+    font-family: sans-serif;
+}
+
+.nav{
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.nav-menu{
+    color: blue;
+    text-align: center;
+    margin-top: 25px;
+    font-family: sans-serif;
+    display: inline;
+    
+}
+
+.menu-item{
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    padding: 30px;
+    
+}
+
+.menu-link{
+    text-decoration: none;
+    
+}
+
+.menu-link:hover{
+    text-decoration:underline;
+    color: red;
+    
+}
+
+.footer{
+    text-align: center;
+    color: blue;
+    padding-top: 400px;
+    
+}
+
+.form{
+    text-align: center;
+
+}
